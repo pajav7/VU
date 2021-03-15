@@ -1,5 +1,4 @@
-# VU
-Výzkumný úkol
+# Preprocessing for on-line division
 
 Here are 3 programs created for my research assignment. Open-source programming language SageMath is used.
 
